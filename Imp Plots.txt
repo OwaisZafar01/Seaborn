@@ -1,0 +1,30 @@
+
+
+Master just these 7-8 graphs, cover 90% of the work in data science/ML/AI field:
+
+Top 8 Must-Master Graphs
+
+Matplotlib - Core Essential Plots
+
+Line Plot - Time series data, trends dikhane ke liye
+Bar Plot - Categorical data comparison
+Histogram - Data distribution dekhne ke liye
+Scatter Plot - Two variables ka relationship
+Subplot - Multiple plots ek saath dikhane ke liye
+
+Seaborn - Must-Know Plots
+
+Heatmap - Correlation matrix, confusion matrix ke liye
+Boxplot - Outliers aur data distribution
+Countplot - Categorical variables ki frequency
+Distplot/Histplot - Data distribution with density curve
+Pairplot - Multiple variables ka relationship ek saath
+Barplot - Categorical data with error bars
+
+Most Critical Ones (Top Priority)
+
+Histogram - Har dataset mein pehle ye dekhte hain
+Scatter Plot - Feature relationships ke liye
+Heatmap - Correlation analysis ke liye (bahut important!)
+Boxplot - Outlier detection ke liye
+Line Plot - Time series analysis ke liye
